@@ -1,6 +1,6 @@
 ---
 title: "Goroutine은 OS 스레드와 어떻게 다른가요?"
-preview: "Go가 수십만 개의 goroutine을 거뜬히 띄울 수 있는 이유는 OS 스레드와 근본적으로 다른 방식으로 동작하기 때문입니다."
+preview: "Go에서는 goroutine을 수십만 개씩 띄워도 거뜬합니다. 같은 일을 OS 스레드로 하기는 어려운데, 무엇이 이 차이를 만들까요?"
 tags: [go, concurrency, runtime]
 ---
 

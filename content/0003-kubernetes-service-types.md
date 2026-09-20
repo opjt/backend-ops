@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Service 타입의 종류와 차이점은?"
-preview: "Pod는 재시작될 때마다 IP가 바뀝니다. Service는 이 문제를 해결하는 안정적인 네트워크 엔드포인트입니다. 타입에 따라 접근 범위가 달라집니다."
+preview: "Pod는 재시작될 때마다 IP가 바뀝니다. 그런데도 다른 Pod나 외부에서 안정적으로 접근할 수 있는 이유는 뭘까요? Service 타입은 어떻게 나뉘고 무엇이 다를까요?"
 tags: [k8s, network]
 ---
 
